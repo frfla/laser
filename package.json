@@ -10,6 +10,7 @@
     "publish": "npm publish"
   },
   "author": "vvyre <seung.yoon.yu@gmail.com>",
+  "repository": "https://github.com/frfla/laser",
   "license": "MIT",
   "type": "module",
   "devDependencies": {
