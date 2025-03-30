@@ -1,0 +1,9 @@
+{
+  "$schema": "https://swc.rs/schema.json",
+  "sourceMaps": true,
+  "jsc": {
+    "parser": {
+      "syntax": "typescript"
+    }
+  }
+}
