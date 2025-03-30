@@ -7,7 +7,7 @@
     "test": "pnpx jest --watchAll --verbose",
     "coverage": "pnpx jest --coverage",
     "build": "bunchee --cwd",
-    "release": "npm publish --access=public"
+    "publish": "npm publish"
   },
   "author": "vvyre <seung.yoon.yu@gmail.com>",
   "license": "MIT",
