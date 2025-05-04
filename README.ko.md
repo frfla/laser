@@ -4,19 +4,19 @@
 
 ## Array
 
-- `type NotEmptyArray<T>`
+- `type NotEmptyArray<T>` 비어있지 않은 배열을 표현하는 유틸리티 타입
 
 ## Function
 
-- noop()
-- asyncNoop()
+- `noop()` 아무 동작도 하지 않는 함수
+- `asyncNoop()` 아무 동작도 하지 않는 `Promise`를 리턴하는 함수
 
 ## Object
 
-- objectKeys()
-- objectEntries()
+- `objectKeys()` Object.keys에 Type Assertion이 적용된 함수
+- `objectEntries()` Object.entries에 Type Assertion이 적용된 함수
 
 ## runtime
 
-- isServer()
-- isClient()
+- `isServer()` 현재 실행 환경이 서버인지를 알려주는 함수
+- `isClient()` 현재 실행 환경이 브라우저인지를 알려주는 함수
