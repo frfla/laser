@@ -1,6 +1,12 @@
 # LASER
 
-Straightforward Javascript/TypeScript Utilities
+**Straightforward Javascript/TypeScript Utilities**
+
+```
+npm install @frfla/laser
+yarn add @frfla/laser
+pnpm add @frfla/laser
+```
 
 ## Array
 

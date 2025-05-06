@@ -1,6 +1,12 @@
 # LASER
 
-간단하고 빠르게 사용할 수 있는 자바스크립트, 타입스크립트 유틸리티
+**간단하고 빠르게 사용할 수 있는 자바스크립트, 타입스크립트 유틸리티**
+
+```
+npm install @frfla/laser
+yarn add @frfla/laser
+pnpm add @frfla/laser
+```
 
 ## Array
 
