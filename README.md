@@ -18,7 +18,7 @@ pnpm add @frfla/laser
 
 - `noop()` A function that performs no action
 - `asyncNoop()` A function that returns a Promise which resolves immediately and performs no action
-- `type NaryFn` A utility type that represents a function taking exactly N parameter(s). (1 <= N <= 3).
+- `type NaryFn<A, B, ... N, R>` A utility type that represents a function taking exactly N parameter(s). (1 <= N <= 3).
 
 ## Object
 
